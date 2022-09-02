@@ -1,0 +1,11 @@
+
+//Tecnologia Usada
+//Java,
+//Java WEB, 
+//MySQL
+
+
+
+//Objetivo.
+//Sanar a falta de Cardápio em Dias Cheios.
+//Facilitar o Acesso dos Clientes ao Cardápio.
